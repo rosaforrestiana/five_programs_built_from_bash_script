@@ -1,6 +1,6 @@
 # learn_bash_script_by_building_five_program
 
-Instruction how to use write the script:
+Instruction on how to use write the script:
 
 Create the bingo, fortune, questionnaire and the countdown file one by one.
 
