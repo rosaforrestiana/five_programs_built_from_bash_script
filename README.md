@@ -14,7 +14,7 @@ Key in the code as instructed. See each file for the codes.
 
 Run the script after finishing writing the code in the file editor. Type ./file_name.sh in the terminal to run the script. 
 
-Type help / man function_name to search, in the terminal to find out how to write the code in the file editor. 
+Type help / man function_name to search in the terminal to find out how to write the code in the file editor. 
 
 
 Questionnaire Script
@@ -25,27 +25,25 @@ To use the bash interpreter, enter bash questionnaire.sh in the terminal. The ba
 
 To search for the location of the bash, enter which bash in the terminal.
 
-The return is usr/bin/bash whcih is the absolute path to the bash interpreter. 
+The return is usr/bin/bash which is the absolute path to the bash interpreter. 
 
-When the script is run by executing ./file_name.sh in the terminal, the default is bash instead of sh.
+When the script is run by executing ./file_name.sh in the terminal, the default will be bash instead of sh.
 
-To list the files inside the project folder, enter ls -l in the terminal 
+To list the files inside the project folder, enter ls -l in the terminal; long list
 
 Create VARIABLE_NAME=VALUE in the file editor.
 
-The value is enclosed with a double quotation mark.
+Enclose the value with double quotation marks.
 
-Enter read command. For example read VARIABLE_NAME.
+Enter read command VARIABLE_NAME.
 
-To use the function, key in echo $VARIABLE_NAME
+To activate the variable, key in echo $VARIABLE_NAME in the terminal
 
-To enter a title in the file editor.
-
-Key in the code below which will set a space in between the title; above and below
+To enter a title in the file editor, key in the code below which will set a space in between the title; above and below
 
  echo -e \n~~ script_title ~~\n
 
-To enter a sentence with and empty line at the beginning
+To enter a sentence with and empty line at the beginning, leave out \n at the end of the sentence or text. 
 
   echo -e "\n<text>"
 
