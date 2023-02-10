@@ -17,7 +17,7 @@ Run the script after finishing writing the code in the file editor. Type ./file_
 Type help / man function_name to search, in the terminal to find out how to write the code in the file editor. 
 
 
-questionnaire Script
+Questionnaire Script
 
 To use the shell interpreter, enter sh questionnaire.sh in the terminal. 
 
