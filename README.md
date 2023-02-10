@@ -14,7 +14,7 @@ Key in the code as instructed. See each file for the codes.
 
 Run the script after finishing writing the code in the file editor. Type ./file_name.sh in the terminal to run the script. 
 
-Type help / man in the terminal to check out how to write the code in the file editor. 
+Type help / man function_name to search, in the terminal to find out how to write the code in the file editor. 
 
 
 questionnaire Script
